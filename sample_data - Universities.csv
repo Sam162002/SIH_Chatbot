@@ -1,0 +1,477 @@
+Sr. No.,Name of the University,State,CGPA,Grade
+1,"Acharya Nagarjuna University,Guntur 522510 (Third Cycle)",Andhra Pradesh,3.08,A
+2,"Andhra University,Visakhapatnam530003 (Third Cycle)",Andhra Pradesh,3.6,A
+3,"DR.B.R.AMBEDKAR UNIVERSITY, SRIKAKULAM,Dr.B.R.Ambedkar University, Srikakulam 
+ Etcherla - 532 410
+ Srikakulam
+ Andhra Pradesh,SRIKAKULAM,Andhra Pradesh,532410 (First Cycle)",Andhra Pradesh,2.25,B
+4,"Gandhi Institute of Technology and Management [GITAM] (Deemed-to-be-University u/s 3 of the UGC Act 1956), Rushikonda, Visakhapatnam  530045 (Second Cycle)",Andhra Pradesh,3.53,A+
+5,"Jawaharlal Nehru Technological University Kakinada, East Godavari, Kakinada  533003 (First Cycle)",Andhra Pradesh,2.67,B+
+6,"Rashtriya Sanskrit Vidyapeetha (Deemed-to-be-University u/s 3 of the UGC Act 1956), Tirupati  517507 (Second Cycle)",Andhra Pradesh,3.71,A
+7,Sri Krishnadevaraya University Anantapur  515003 (Third Cycle),Andhra Pradesh,2.85,B
+8,"Sri Padmavati Mahila Visvavidyalayam, Tirupati  517502 (Third Cycle)",Andhra Pradesh,3.11,A
+9,"Sri Sathya Sai Institute of Higher Learning, (Deemed to be University), Vidyagiri, Prasanthi Nilayam-515134 Anantapuramu District,Prasanthi Nilayam,Andhra Pradesh,515134 (Third Cycle)",Andhra Pradesh,2.90,B++
+10,"Sri Venkateswara University, Tirupati, Chittoor - 517502 (Third Cycle)",Andhra Pradesh,3.52,A+
+11,Vignan's Foundation for Science Technology and Research Vadlamudi (Second Cycle),Andhra Pradesh,3.49,A+
+12,Yogi Vemana University Kadapa (Cuddapah)  516003 (First Cycle),Andhra Pradesh,2.54,B
+13,"Dravidian University ,Srinivasavanam, Kuppam,Chittoor - 517426 (First Cycle)",Andhra Pradesh,2.23,B
+14,"Koneru Lakshmaiah Education Foundation (Deemed-to-be-University u/s 3 of the UGC Act 1956),Green Fields, Vaddeswaram,Guntur - 522502 (Second Cycle)",Andhra Pradesh,3.57,A++
+15,"Rayalaseema University,National Highway 40, Nandyal Road,Kurnool - 518007 (First Cycle)",Andhra Pradesh,2.45,B
+16,"ARUNACHAL UNIVERSITY OF STUDIES, KNOWLEDGE CITY, NH-52 NAMSAI, DISTRICT- NAMSAI ARUNACHAL PRADESH, NAMSAI-792103 (First Cycle)",Arunachal Pradesh,1.72,C
+17,"National Institute of Technology, Itanagar  791112 (First Cycle)",Arunachal Pradesh,2.34,B
+18,"Rajiv Gandhi University, Rono Hills, Itanagar, 791112 (Second Cycle)",Arunachal Pradesh,2.4,B
+19,Assam Don Bosco University (Second Cycle),Assam,3.08,A
+20,"ASSAM DOWN TOWN UNIVERSITY,SANKAR MADHAB PATH, GANDHINAGAR, PANIKHAITI,GUWAHATI , 781026  (First Cycle)",Assam,2.23,B
+21,"Dibrugarh University, Dibrugarh  786004 (Third Cycle)",Assam,3.16,A
+22,"KRISHNA KANTA HANDIQUI STATE OPEN UNIVERSITY,Patgaon, Rani Gate, Rani,Guwahati,Assam,781017 (First Cycle)",Assam,2.68,B+
+23,"KUMAR BHASKAR VARMA SANSKRIT AND ANCIENT STUDIES UNIVERSITY,Vill Namati, P.O Hati Namati, Nalbari,Nalbari,Assam,781337 (First Cycle)",Assam,2.57,B+
+24,"Tezpur University, Tezpur  784028 (Third Cycle)",Assam,3.25,A
+25,"Gauhati University ,Gopinath Bardoloi Nagar,Guwahati - 781014 (Third Cycle)",Assam,3.04,A
+26,"Babasaheb Bhimrao Ambedkar Bihar University, Muzaffarpur  842001 (First Cycle)",Bihar,2.27,B
+27,"Central University of South Bihar, Patna  800014 (First Cycle)",Bihar,3.01,A
+28,"Kameshwar Singh Darbhanga Sanskrit University, Darbhanga  846008 (Second Cycle)",Bihar,2.7,B
+29,"Lalit Narayan Mithila University,Kameshwarnagar, Darbhanga, 846004 (Second Cycle)",Bihar,2.46,B
+30,"Magadh University, Bodhgaya, Gaya  824234 (First Cycle)",Bihar,1.76,C
+31,"PATNA UNIVERSITY, Ashok Rajpath, Near Patna College,Patna,Bihar,800005 (First Cycle)",Bihar,2.55,B+
+32,"Tilka Manjhi Bhagalpur University, Bhagalpur  812007 (Second Cycle)",Bihar,2.5,B
+33,"Chanakya National Law University, Near Jakkanpur Police Station, Nyaya Nagar, Mithapur, Patna-800001, Bihar (Second Cycle)",Bihar,2.17,B
+34,"Panjab University, Sector 14, Chandigarh, 160014 (Third Cycle)",Chandigarh,3.35,A
+35,"PUNJAB ENGINEERING COLLEGE (DEEMED TO BE UNIVERSITY), CHANDIGARH , Punjab Engineering College (Deemed to be University) Sector 12 Chandigarh-160012,CHANDIGARH,Chandigarh,160012 (First Cycle)",Chandigarh,2.71,B+
+36,"Dr. C. V. Raman University, Bilaspur  495113 (First Cycle)",Chhattisgarh,2.61,B+
+37,"Kalinga University
+ Village - Kotni, Near Mantralaya, 
+ Naya Raipur,Raipur,Chhattisgarh,492101",Chhattisgarh,2.60,B+
+38,"MATS University ,Kharora Highway, Gullu, Aarang,Raipur - 493441 (First Cycle)",Chhattisgarh,2.76,B++
+39,"Pandit Ravishankar Shukla University, Raipur  492010 (Third Cycle)",Chhattisgarh,3.02,A
+40,"SANT GAHIRA GURU VISHWAVIDYALAYA, SARGUJA,New Hospital Road , Darripara,Ambikapur(C.G.),AMBIKAPUR , 497001 Chhattisgarh (First Cycle)",Chhattisgarh,1.76,C
+41,"DELHI TECHNOLOGICAL UNIVERSITY,Bawana Road Shahbad Daulatpur,Delhi , 110042 (First Cycle)",Delhi,3.22,A
+42,"Indian Agricultural Research Institute (Deemed-to-be-University u/s 3 of the UGC Act, 1956), Delhi  110012 (First Cycle)",Delhi,3.51,A+
+43,"Indian Institute of Foreign Trade (Deemed to be University u/s 3 of the UGC Act 1956), Qutab Institutional Area, 110016 (Second Cycle)",Delhi,3.53,A
+44,"Indian Law Institute (Deemed-to-be-University u/s 3 of the UGC Act 1956), Delhi  110001 (First Cycle)",Delhi,3.35,A
+45,"INDIRA GANDHI NATIONAL OPEN UNIVERSITY, Indira Gandhi National Open University
+ Maidan Garhi
+ New Delhi,New Delhi,Delhi,110068 (First Cycle)",Delhi,3.56,A++
+46,"Indraprastha Institute of Information Technology, Okhla Industrial Estate, Phase-III , 110020 (First Cycle)",Delhi,3.04,A
+47,"Institute of Liver and Biliary Sciences (Deemed-to-be-University u/s 3 of the UGC Act 1956), New Delhi  110070 (First Cycle)",Delhi,3.03,A
+48,"Jamia Hamdard (Hamdard University) (Deemed-to-be-University u/s 3 of the UGC Act 1956), Hamdard Nagar, Delhi  110062 (Third Cycle)",Delhi,3.15,A
+49,"JAMIA MILLIA ISLAMIA,Maulana Mohammad Ali Jauhar Marg, Jamia Nagar,New Delhi,Delhi,110025 (Second Cycle)",Delhi,3.61,A++
+50,"Jawaharlal Nehru University, Delhi  110067 (Second Cycle)",Delhi,3.77,A++
+51,"National Law University, Sector 14, Dwarka  110078 (First Cycle)",Delhi,3.59,A
+52,"Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha (Deemed to be University u/s 3 of the UGC Act 1956), B-4, Qutub Institutional Area, 110016 (Second Cycle)",Delhi,3.01,A
+53,"TERI School of Advanced Studies (Deemed-to-be-University u/s 3 of the UGC Act 1956),Plot No. 10, Institutional Area,Vasant Kunj - 110070 (Second Cycle)",Delhi,2.84,B++
+54,"University of Delhi,,Delhi - 110007 (First Cycle)",Delhi,3.28,A+
+55,"DR. B. R. AMBEDKAR UNIVERSITY, Lothian Road, Kashmere Gate,Delhi -110006 (Second Cycle)",Delhi,2.8,B++
+56,"Central University of Gujarat, Gandhinagar  382030 (First Cycle)",Gujarat,2.76,B++
+57,"Charotar University of Science and Technology (CHARUSAT), Anand  388421 (First Cycle)",Gujarat,3.11,A
+58,"Dharmsinh Desai University, Nadiad  387001 (Second Cycle)",Gujarat,2.88,B++
+59,"Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT),Gandhinagar  382007 (First Cycle)",Gujarat,3.11,A
+60,"Gujarat Ayurved University, Jamnagar  361008 (First Cycle)",Gujarat,3.28,A
+61,"Gujarat Forensic Sciences University, Gandhinagar  382009 (First Cycle)",Gujarat,3.15,A
+62,"Gujarat National Law University, Gandhinagar  382007 (First Cycle)",Gujarat,3.1,A
+63,"Gujarat University, Ahmedabad, 380009(Second Cycle)",Gujarat,2.85,B
+64,"Gujarat Vidyapith, Ahmedabad  380014 (First Cycle)",Gujarat,3.01,A
+65,"Hemchandracharya North Gujarat University,Patan  384265 (Second Cycle)",Gujarat,3.02,A
+66,"NIRMA UNIVERSITY,Nirma University
+ S. G. Highway
+ Chharodi
+ Ahmedabad,Ahmedabad,Gujarat,382481 (Third Cycle)",Gujarat,3.33,A+
+67,"Pandit Deendayal Petroleum University, Raisan, Gandhinagar, Ahmedabad  382007 (First Cycle)",Gujarat,3.39,A
+68,"RK University,Rajkot-Bhavnagar Highway, Kasturbadham,Rajkot - 360020 (First Cycle)",Gujarat,2.74,B+
+69,"Sardar Patel University, Vallabh Vidyanagar  388120 (Third Cycle)",Gujarat,3.25,A
+70,"SAURASHTRA UNIVERSITY, SAURASHTRA UNIVERSITY CAMPUS, UNIVERSITY ROAD, RAJKOT - 360005,RAJKOT,Gujarat,360005 (Fourth Cycle)",Gujarat,2.49,B
+71,"SHREE SOMNATH SANSKRIT UNIVERSITY,Shree Somnath Sanskrit University, Rajendra Bhuvan Road, Veraval,
+ Dist.- Gir Somnath,Veraval,Gujarat,362266 (First Cycle)",Gujarat,3.42,A+
+72,"Sumandeep Vidyapeeth, At and PO-Piparia, Taluka-Waghodia,Vadodara,Gujarat,391760 (Second Cycle)",Gujarat,3.61,A++
+73,"TEAMLEASE SKILLS UNIVERSITY,ITC Building, ITI Campus, Tarsali,Vadodara,Gujarat,390009 (First Cycle)",Gujarat,2.01,B
+74,"The Maharaja Sayajirao University of Baroda, Vadodara  390002 (Third Cycle)",Gujarat,3.16,A
+75,"UKA TARSADIA UNIVERSITY, Maliba Campus, Gopal Vidyanagar, Bardoli-Mahuva Road, Taluka-Mahuva,BARDOLI ,Dist.- Surat-394350 (First Cycle)",Gujarat,2.74,B+
+76,"Veer Narmad South Gujarat University, Surat  395007 (Third Cycle)",Gujarat,3.02,A
+77,"Maharaja Krishnakumarsinhji Bhavnagar University,Sardar Patel Campus,Bhavnagar - 364001 (Second Cycle)",Gujarat,1.65,C
+78,"AMITY UNIVERSITY HARYANA, Amity University Haryana,
+ Amity Education Valley,
+ Panchgaon,
+ Manesar, Gurugram -122413,Gurugram,Haryana,122413 (First Cycle)",Haryana,3.07,A
+79,"Central University of Haryana, Mahendragarh  123029 (First Cycle)",Haryana,3.1,A
+80,"Chaudhary Devi Lal University, Sirsa  125055 (First Cycle)",Haryana,2.13,B
+81,"Deenbandhu Chhotu Ram University of Science and Technology, Murthal, Sonepat  131039 (First Cycle)",Haryana,3.02,A
+82,"Guru Jambheshwar University of Science & Technology, Hisar, 125001 Haryana (Third Cycle)",Haryana,3.28,A
+83,"Kurukshetra University, Kurukshetra  136119 (Third Cycle)",Haryana,3.52,A+
+84,"Lingaya�s University,Faridabad (First Cycle)",Haryana,2.42,B
+85,"MAHARISHI MARKANDESHWAR (DEEMED TO BE UNIVERSITY), MULLANA-AMBALA,Maharishi Markandeshwar (Deemed to be University), 
+ Ambala-Yamunanagar Highway No. 344, 
+ Mullana, District Ambala,MULLANA,Haryana,133207 (Second Cycle)",Haryana,3.53,A++
+86,"Maharishi Markandeshwar University, Sadopur, Ambala  134007 (First Cycle)",Haryana,2.01,B
+87,"MAHARSHI DAYANAND UNIVERSITY,Haryana , Rohtak , 124001 ,Haryana , Rohtak , 124001 (Third Cycle)",Haryana,3.44,A+
+88,"Manav Rachna International University,Faridabad (First Cycle)",Haryana,3.05,A
+89,"NATIONAL BRAIN RESEARCH CENTRE,NH -8, NAINWAL ROAD, 
+ MANESAR 
+ HR-122052,Manesar,Haryana,122052 (First Cycle)",Haryana,2.68,B+
+90,"O. P. Jindal Global University, Sonipat  131001 (First Cycle)",Haryana,3.26,A
+91,"Pt. B. D. Sharma University of Health Sciences, Rohtak  124001 (First Cycle)",Haryana,3.08,A
+92,"The NorthCap University, Gurgaon  122017 (First Cycle)",Haryana,2.72,B
+93,"YMCA University of Science and Technology, Faridabad  121006 (First Cycle)",Haryana,3.08,A
+94,"Career Point University, Hamipur. 
+ Village Tikker (Kharwarian) Post Office Kharwar
+ Tehsil Bhoranj , District Hamirpur.,Hamirpur,Himachal pradesh,176041 (First Cycle)",Himachal Pradesh,2.02,B
+95,"Central University of Himachal Pradesh, Dharamshala, Kangra  176215 (First Cycle)",Himachal Pradesh,2.78,B++
+96,"Chitkara University, Solan  174103 (First Cycle)",Himachal Pradesh,2.71,B
+97,Eternal University (First Cycle),Himachal Pradesh,2.14,B
+98,"Himachal Pradesh University, Shimla  171005 (Third Cycle)",Himachal Pradesh,3.21,A
+99,"Jaypee University of Information Technology, Waknaghat, Kandaghat, Solan  173215 (Second Cycle)",Himachal Pradesh,2.66,B+
+100,"MAHARAJA AGRASEN UNIVERSITY,Atal Shiksha Kunj
+ Kalujhanda
+ Near Barotiwala
+ Tehsil Baddi
+ Distt. Solan,Kalujhanda Barotiwala Baddi Distt Solan,Himachal pradesh,174103 (First Cycle)",Himachal Pradesh,2.13,B
+101,"Manav Bharti University, Laddo, Sultanpur, Solan  173229 (First Cycle)",Himachal Pradesh,2.14,B
+102,"Shoolini University of Biotechnology and Management Sciences, Solan  173229 (First Cycle)",Himachal Pradesh,2.92,B++
+103,"Baba Ghulam Shah Badshah University, Dhanore, Rajouri,Rajouri,Jammu And Kashmir,185234 (First Cycle)",Jammu and Kashmir,2.5,B
+104,"Central University of Jammu, Samba, Jammu  181143 (First Cycle",Jammu and Kashmir,2.88,B++
+105,"Central University of Kashmir, Srinagar  190015 (First Cycle)",Jammu and Kashmir,2.8,B++
+106,"Islamic University of Science and Technology,Awantipora  192122 (First Cycle)",Jammu and Kashmir,2.52,B
+107,"University of Jammu, Jammu  180006
+(Third Cycle)",Jammu and Kashmir,3.51,A+
+108,"UNIVERSITY OF KASHMIR,Hazratbal, Srinagar, Jammu and Kashmir,Srinagar , 190006 (Third Cycle)",Jammu and Kashmir,3.31,A+
+109,"CENTRAL UNIVERSITY OF JHARKHAND,CTI Campus, Ratu-Lohardaga Road, Brambe, Ranchi,Ranchi,Jharkhand,835205 (First Cycle)",Jharkhand,2.34,B
+110,"Jharkhand Rai University,Kamre, Ratu Road,Ranchi - 835222 (First Cycle)",Jharkhand,1.95,C
+111,"Kolhan University, Chaibasa  833202 (First Cycle)",Jharkhand,1.6,C
+112,"Ranchi University, Ranchi  834001 (First Cycle)",Jharkhand,2.8,B++
+113,"Vinoba Bhave University, Hazaribag  825301 (First Cycle)",Jharkhand,2.77,B
+114,"Sido Kanhu Murmu University,Dighi, University Campus,Dumka - 814110 (First Cycle)",Jharkhand,1.61,C
+115,"Bangalore University, Bangalore  560056 (Third Cycle)",Karnataka,3.16,A
+116,"BLDE (DEEMED TO BE UNIVERSITY),Smt. Bangaramma Sajjan Campus, B M Patil Road (Sholapur Road), Vijayapura-586103 Karnataka, India,Vijayapura,Karnataka,586103 (Second Cycle)",Karnataka,3.09,A
+117,"Central University of Karnataka, Gulbarga  585311 (First Cycle)",Karnataka,2.8,B++
+118,"Christ University (Deemed-to-be-University u/s 3 of the UGC Act 1956), Bengaluru  560029 (First Cycle, assessed as per old methodology)",Karnataka,3.25,A
+119,"Gulbarga University, Gulbarga  585106 (Third Cycle)",Karnataka,2.91,B
+120,"Indian Institute of Science, C V Raman Road, Bengaluru  560012 (First Cycle)",Karnataka,3.67,A++
+121,"INTERNATIONAL INSTITUTE OF INFORMATION TECHNOLOGY,International Institute of information Technology Bangalore
+26/C Electronics City Phase 1 Hosur Road Bangalore,Bangalore,Karnataka,560100 (Second Cycle)",Karnataka,3.37,A+
+122,"JAIN(Deemed-to- be University),JAIN GLOBAL CAMPUS, JAKKASANDRA POST, KANAKAPURA TALUK, RAMANAGARA DISTRICT - 562 112,BANGALORE,Karnataka,560004 (Second Cycle)",Karnataka,3.71,A++
+123,"Jawaharlal Nehru Centre for Advanced
+Scientific Research (JNCASR) (Deemed-to-be-University u/s 3 of the UGC Act 1956), Bengaluru  560064 (First Cycle)",Karnataka,3.76,A++
+124,"JSS Academy of Higher Education and Research (Deemed-to-be-University u/s 3 of the UGC Act 1956),Sri Shivarathreeshwara Nagar,Mysuru - 570015 (Second Cycle)",Karnataka,3.48,A+
+125,"KANNADA UNIVERSITY, Vidyaranya
+Hospete Taluk, Bellari District
+KARNATAKA
+Pin code 583276 (Third Cycle)",Karnataka,2.5,B
+126,"Karnatak University, Pavate Nagar, Dharwad, 580003 Karnataka ( Third Cycle)",Karnataka,3.15,A
+127,"Karnataka State Law University, Hubballi  580025 (First Cycle)",Karnataka,3.18,A
+128,"Karnataka State Women's University, Bijapur  586108 (First Cycle)",Karnataka,2.62,B
+129,"KLE Academy of Higher Education And Research
+ JN Medical College Campus
+ Nehru Nagar,Belagavi,Karnataka,590010 (Third Cycle)",Karnataka,3.39,A+
+130,"KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI,KLE Technological University, B V Bhoomaraddi College Campus, Vidyanagar, Hubballi-580031,Hubballi,Karnataka,580031 (First Cycle)",Karnataka,3.1,A
+131,"Kuvempu University, Shankaraghatta,
+Shimoga  577451 (Re-visit,Third Cycle)",Karnataka,3.05,A
+132,"MANGALORE UNIVERSITY, Administrative Building Mangalagangothri,Mangalore,Karnataka,574199 (Third Cycle)",Karnataka,2.49,B
+133,"National Law School of India University ,Nagarbhavi ,Bengaluru - 560072 (First Cycle)",Karnataka,3.10,A
+134,"NITTE (DEEMED TO BE UNIVERSITY),Sixth Floor, University Enclave, Medical Sciences Complex, Deralakatte,Mangaluru,Karnataka,575018 (Second Cycle)",Karnataka,3.4,A+
+135,"RANI CHANNAMMA UNIVERSITY,Rani Channamma University, 
+ Vidyasangama, Bhutaramanahatti
+ NH - 04, Belagavi-591156,Belagavi,Karnataka,591156 (First Cycle)",Karnataka,2.56,B+
+136,"REVA UNIVERSITY,Rukmini Knowlegde Park, Kattigenahalli, Yelahanka,Bengaluru,Karnataka,560064 (First Cycle)",Karnataka,2.58,B+
+137,"Sri Devaraj Urs Academy of Higher Education and Research, Kolar (Second Cycle)",Karnataka,2.71,B+
+138,"Sri Siddhartha Academy of Higher Education, Tumkur (First Cycle)",Karnataka,3.01,A
+139,"Swami Vivekananda Yoga Anusandhana Samsthana (Deemed-to-be-University u/s 3 of the UGC Act 1956), Kempegowda Nagar, Bengaluru  560019 (Second Cycle)",Karnataka,3.58,A+
+140,"UNIVERSITY OF MYSORE,University of Mysore, Crawford Hall, Mysuru 570005,Mysuru,Karnataka,570005 (Fourth Cycle)",Karnataka,3.01,A
+141,"VIJAYANAGARA SRI KRISHNADEVARAYA UNIVERSITY, Jnana sagara Campus, Vinayaka nagara, cantonment
+ Ballari - 583105,Ballari,Karnataka,583105 (Cycle 1)",Karnataka,1.96,C
+142,"Yenepoya University, Mangalore (First Cycle)",Karnataka,3.14,A
+143,"DAVANGERE UNIVERSITY,
+ Shivagangotri,
+Davangere,Karnataka,577007 (Second Cycle)",Karnataka,2.59,B+
+144,"MANIPAL ACADEMY OF HIGHER EDUCATION (DEEMED-TO-BE-UNIVERSITY U/S 3 OF THE UGC ACT),
+ Madhav Nagar
+ Manipal,Udupi,Karnataka,576104 (Third Cycle)",Karnataka,3.65,A++
+145,"UNIVERSITY OF AGRICULTURAL SCIENCES, LINGASUGUR ROAD, RAICHUR - 584 104, KARNATAKA (First Cycle)",Karnataka,2.55,B+
+146,"Central University of Kerala, Kasargod  671316 (First Cycle)",Kerala,2.76,B++
+147,"Cochin University of Science and Technology, Cochin  682022 (Second Cycle)",Kerala,3.09,A
+148,"KANNUR UNIVERSITY,THAVAKKARA,
+CIVIL STATION P.O., KANNUR.
+PIN 670002,KANNUR,Kerala,670002 (Second Cycle)",Kerala,2.85,B++
+149,"Mahatma Gandhi University, Athirampuzha, Kottayam  686560 (Third Cycle)",Kerala,3.24,A
+150,"SREE SANKARACHARYA UNIVERSITY OF SANSKRIT,SREE SANKARACHARYA UNIVERSITY OF SANSKRIT
+ KALADY,
+ KALADY P.O,
+ ERNAKULAM,
+ KERALA-683574,ERNAKULAM,Kerala,683574 (Second Cycle)",Kerala,3.37,A+
+151,"University of Calicut, Malappuram  673635 (Third Cycle",Kerala,3.13,A
+152,"University of Kerala, 
+ Senate House Campus, 
+ Palayam, 
+ Thiruvananthapuram - 695034, Kerala (Third Cycle)",Kerala,3.67,A++
+153,"Kannur University, Kannur  670002 (First Cycle)",Kerala,2.19,B
+154,"Awadhesh Pratap Singh University, Rewa  486003 (Second Cycle)",Madhya Pradesh,2.37,B
+155,"Barkatullah University, Bhopal, 462026 (Second Cycle)",Madhya Pradesh,2.5,B
+156,"DEVI AHILYA VISHWAVIDYALAYA,Devi Ahilya Vishwavidyala,
+ Nalanda Parisar,
+ R N T Marg,Indore,Madhya Pradesh,452001 (Fourth Cycle)",Madhya Pradesh,3.3,A+
+157,"Dr. Harisingh Gour Vishwavidyalaya, Sagar, 470003 (Third Cycle)",Madhya Pradesh,3.04,A
+158,"Indira Gandhi National Tribal University, Amarkantak  484887 (First Cycle)",Madhya Pradesh,2.8,B
+159,"Jaypee University of Engineering and Technology, Guna  473226 (First Cycle)",Madhya Pradesh,3.06,A
+160,"Jiwaji University, Gwalior, 474011 (Second Cycle)",Madhya Pradesh,3.06,A
+161,"Lakshmibai National Institute of Physical Education (Deemed-to-be-University u/s 3 of UGC Act 1956), Gwalior  474002 (Second Cycle)",Madhya Pradesh,3.79,A++
+162,"Mahatma Gandhi Chitrakoot Gramodaya Vishwavidyalaya, Chitrakoot, Satna  485334 (First Cycle",Madhya Pradesh,3.04,A
+163,"Rabindranath Tagore University, Village  Mendua, Bhopal-Chiklod Road, Tehsil  Goharganj, Dist.  Raisen, Madhya Pradesh (First Cycle)",Madhya Pradesh,2.33,B
+164,"Rajiv Gandhi Proudyogiki Vishwavidyalaya, Gandhi Nagar, Bhopal  462033 (First Cycle)",Madhya Pradesh,3.02,A
+165,"Rani Durgavati Vishwavidyalaya, Jabalpur, 482001 (Second Cycle)",Madhya Pradesh,2.71,B
+166,"Vikram University, Ujjain  456010 (Second Cycle)",Madhya Pradesh,3.03,A
+167,"ITM University, Gwalior ,Turari, NH-75, Jhansi Road,Gwalior - 474001 (First Cycle)",Madhya Pradesh,2.31,B
+168,"Maharishi Mahesh Yogi Vedic Vishwavidyalaya,Village-Karaundi, Post Office-Mahner, Dheemarkheda,Katni - 483332 (First Cycle)",Madhya Pradesh,1.77,C
+169,"People's University,Peoples Campus, Bhanpur,Bhopal - 462037 (First Cycle)",Madhya Pradesh,2.43,B
+170,"Bharati Vidyapeeth University (Deemed-to-be-University u/s 3 of the UGC Act 1956), Pune  411030 (Third Cycle) 7 Years Validity",Maharashtra,3.53,A+
+171,"D. Y. Patil Education Society (Deemed-to-be-University u/s 3 of the UGC Act 1956), Kolhapur  416006 (Second Cycle)",Maharashtra,3.2,A
+172,"Datta Meghe Institute of Medical Sciences (Deemed-to-be-University u/s 3 of the UGC Act 1956), Wardha  442004 (Third Cycle)
+7 Years Validity",Maharashtra,3.53,A+
+173,"Deccan College Post-Graduate and Research Institute (Deemed to be University u/s 3 of the UGC Act 1956), Pune, 411006 (Second Cycle)",Maharashtra,3.16,A
+174,"Defence Institute of Advanced Technology (Deemed to be University u/s 3 of the UGC Act 1956), Girinagar, Pune, 411025 (First Cycle)",Maharashtra,2.86,B
+175,"DR. BABASAHEB AMBEDKAR MARATHWADA UNIVERSITY,Jaisingapura, Near Soneri Mahal,, Aurangabad , 431004 (Third Cycle)",Maharashtra,3.22,A
+176,"Dr. Babasaheb AmbedkarTechnologicalUniversity,Raigad Dist, 402103 (First Cycle)",Maharashtra,2.35,B
+177,"DR. D. Y. PATIL VIDYAPEETH, PUNE,Dr. D. Y. Patil Vidyapeeth (Deemed to be University),
+ Sant Tukaram Nagar, Pimpri, Pune,Pune,Maharashtra,411018 (Third Cycle)",Maharashtra,3.64,A++
+178,"Gokhale Institute of Politics and Economics (Deemed-to-be-University u/s 3 of the UGC Act 1956), Pune  411004 (Second Cycle)",Maharashtra,3.07,A
+179,"Homi Bhabha National Institute (Deemed to be University u/s 3 of the UGC Act 1956), Mumbai, 400094 (Second Cycle)",Maharashtra,3.4,A+
+180,"Institute of Chemical Technology (Deemed-to-be-University u/s 3 of the UGC Act 1956), Matunga, Mumbai  400019 (First Cycle)",Maharashtra,3.77,A++
+181,"INTERNATIONAL INSTITUTE FOR POPULATION SCIENCES,International Institute for Population Sciences (IIPS), Govandi Station Road, Deonar, Mumbai,Mumbai,Maharashtra,400088 (First Cycle)",Maharashtra,3.01,A
+182,"KAVIKULAGURU KALIDAS SANSKRIT UNIVERSITY,Administrative Building, Sitalwadi, Mauda road,Ramtek,Maharashtra,441106 (Second Cycle)",Maharashtra,3.42,A+
+183,"Krishna Institute of Medical Science, Karad (Second Cycle)",Maharashtra,3.39,A+
+184,"Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha, 442005 (First Cycle)",Maharashtra,3.06,A
+185,"North Maharashtra University,Jalgaon, 425001 (Third Cycle)",Maharashtra,3.05,A
+186,"Pravara Institute of Medical Sciences (Deemed-to-be-University u/s 3 of the UGC Act 1956), Loni, Rahata, Ahmednagar  413736 (Second Cycle)",Maharashtra,3.17,A
+187,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur- Pune National Highway, Kegaon, Solapur,,Solapur,Maharashtra,413255 (Second Cycle)",Maharashtra,2.96,B++
+188,"RASHTRASANT TUKADOJI MAHARAJ NAGPUR UNIVERSITY,Rashtrasant Tukadoji Maharaj Nagpur University, 
+ Jamnalal Bajaj Administrative Premisis,
+ Ambazari Bypass Road,Nagpur,Maharashtra,440033 (Fourth Cycle)",Maharashtra,3.01,A
+189,"Sant Gadge Baba Amravati University, Amravati  444602 (Third Cycle)",Maharashtra,3.07,A
+190,"Savitribai Phule Pune University, Pune  411007 (Third Cycle)
+7 Years Validity",Maharashtra,3.6,A+
+191,"SHIVAJI UNIVERSITY,Shivaji University, Kolhapur - 416 004,Kolhapur,Maharashtra,416004 (Fourth Cycle)",Maharashtra,3.52,A++
+192,"Shreemati Nathibai Damodar Thackersey Women's University, Mumbai  400020 (Second Cycle)",Maharashtra,3.08,A
+193,"SVKM's Narsee Monjee Institute of Management Studies (Deemed-to-be-University u/s 3 of the UGC Act 1956), Vile Parle (W), Mumbai  400056 (Third Cycle)",Maharashtra,3.59,A+
+194,"SWAMI RAMANAND TEERTH MARATHWADA UNIVERSITY, Dnyanteerth, Vishnupuri,Nanded,Maharashtra,431606 (Fourth Cycle)",Maharashtra,2.96,B++
+195,"Symbiosis International University, Pune  412115 (Second Cycle)",Maharashtra,3.58,A
+196,"Tata Institute of Fundamental Research (Deemed-to-be-University u/s 3 of the UGC Act 1956), Homi Bhabha Road, Colaba, Mumbai  400005 (First Cycle)",Maharashtra,3.68,A+
+197,"Tata Institute of Social Sciences (Deemed-to-be-University u/s 3 of the UGC Act 1956), Mumbai  400088 (Third Cycle)",Maharashtra,3.89,A
+198,"UNIVERSITY OF MUMBAI,Mahatma Gandhi Road, University of Mumbai, Fort, Mumbai, 400032,Mumbai,Maharashtra,400032 (Third Cycle)",Maharashtra,3.65,A++
+199,"YASHWANTRAO CHAVAN MAHARASHTRA OPEN UNIVERSITY, NASHIK,Dnyangangotri, Near Gangapur Dam, Govardhan, Nashik - 422 222,Nashik,Maharashtra,422222 (First Cycle)",Maharashtra,3.02,A
+200,"SPICER ADVENTIST UNIVERSITY, Aundh Road, PUNE,Maharashtra,411067 (First Cycle)",Maharashtra,2.06,B
+201,"Indira Gandhi Institute of Development Research,Gen. A. K. Vaidya Marg Goregaon East,Mumbai - 400065 (Third Cycle)",Maharashtra,2.75,B+
+202,"Tilak Maharashtra Vidyapeeth (Deemed-to-be-University u/s 3 of the UGC Act 1956)
+(Re-assessment) ,Vidyapeeth Bhavan, Mukundnagar, Gultekdi,Pune - 411037 (Second Cycle)",Maharashtra,2.88,B++
+203,"Manipur University, Canchipur, Imphal  795003 (Second Cycle)",Manipur,3.02,A
+204,"North Eastern Hill University, Mawkynroh, Umshing, Shillong  793022 (Third Cycle)",Meghalaya,3.2,A
+205,"UNIVERSITY OF SCIENCE AND TECHNOLOGY, MEGHALAYA,Techno City, Kling Road, 9th Mile, Baridua, Dist- Ri-Bhoi,Ri Bhoi,Meghalaya,793101 (First Cycle)",Meghalaya,3.07,A
+206,"MIZORAM UNIVERSITY,Tanhril, Aizawl - 796004 (Second Cycle)",Mizoram,3.16,A
+207,"Berhampur University, Berhampur  760007 (Second Cycle)",Odisha,3.01,A
+208,"Central University of Orissa, Landiguda, Koraput  764021
+(First Cycle)",Odisha,2.59,B+
+209,"Centurion University of Technology and Management, Sitapur, Uppalada, Parlakhemundi  761211 (First Cycle)",Odisha,3.1,A
+210,"Fakir Mohan University, Balasore  756020 (First Cycle)",Odisha,2.52,B+
+211,"Kalinga Institute of Industrial Technology, Bhubaneswar  751024 (Second Cycle)",Odisha,3.48,A
+212,"National Institute of Technology, Rourkela  769008 (First Cycle)",Odisha,3.12,A
+213,"National Law University, Cuttack  753015 (First Cycle)",Odisha,3.32,A
+214,"North Orissa University, Takatpur, Baripada  757003 (Second Cycle)",Odisha,2.56,B+
+215,"Ravenshaw University, Cuttack  753003 (First Cycle)",Odisha,3.13,A
+216,"Sambalpur University, Burla  768019 (Second Cycle)",Odisha,3.15,A
+217,"Shri Jagannath Sanskrit Vishvavidyalaya, Puri  752003 (First Cycle)",Odisha,2.53,B+
+218,"Utkal University, Bhubaneswar  751004 (Second Cycle)",Odisha,3.53,A+
+219,"Veer Surendra Sai University of Technology, Sambalpur  768018 (First Cycle)",Odisha,2.76,B
+220,"SIKSHA 'O' ANUSANDHAN,
+ J 15, Khandagiri Square, Bhubaneswar,Bhubaneswar,Orissa,751030 (Third Cycle)",Odisha,3.88,A++
+221,"Pondicherry University,R. Venkataraman Nagar,Kalapet - 605014 (Fourth Cycle)",Puducherry,3.1,A
+222,"SRI BALAJI VIDYAPEETH,SBV Campus, Pillaiyarkuppam,Pondicherry,Puducherry,607402 (Second Cycle)",Puducherry,3.58,A++
+223,"Central University of Punjab, Bathinda  151001 (First Cycle)",Punjab,3.06,A
+224,"CHANDIGARH UNIVERSITY , NH-95,CHANDIGARH-LUDHIANA HIGHWAY
+ GHARUAN, MOHALI
+ PUNJAB-140413,Mohali,Punjab,140413 (First Cycle)",Punjab,3.28,A+
+225,"CHITKARA UNIVERSITY,Chandigarh-Patiala National Highway (NH-07)
+ Village- Jhansla, Tehsil- Rajpura
+ Dist - Patiala,Rajpura,Punjab,140401 (First Cycle)",Punjab,3.26,A+
+226,"DESH BHAGAT UNIVERSITY,Vill Saunti Amloh Road Mandi Gobindgarh Disst Fatehagarh Sahib Punjab,Mandi Gobindgarh,Punjab,147301 (First Cycle)",Punjab,2.39,B
+227,"Guru Nanak Dev University, Amritsar, 143005 Punjab ( Third Cycle)",Punjab,3.51,A
+228,"Punjabi University, Patiala  147002 (Third Cycle)",Punjab,3.34,A
+229,"Rajiv Gandhi National University of Law, Patiala, 147001 (First Cycle)",Punjab,3.32,A
+230,"Sant Longowal Institute of Engineering and Technology (Deemed-to-be-University u/s 3 of the UGC Act 1956), Longowal, Sangrur  148106 (Second Cycle)",Punjab,2.58,B+
+231,"THAPAR INSTITUTE OF ENGINEERING AND TECHNOLOGY UNIVERSITY,THAPAR TECHNOLOGY CAMPUS POST BOX 32 PATIALA PUNJAB , INDIA,atiala , 147004 (Re-assessment, Third Cycle)",Punjab,3.29,A+
+232,"Amity University Rajasthan, Jaipur  303002 (First Cycle)",Rajasthan,2.77,B++
+233,"BANASTHALI VIDYAPITH,P.O. Banasthali Vidyapith, Dist. Tonk, Rajasthan - 304022 (THIRD CYCLE)",Rajasthan,3.63,A++
+234,"Birla Institute of Technology and Science (Deemed-to-be-University u/s 3 of the UGC Act 1956), Pilani  333031 (Third Cycle)",Rajasthan,3.45,A
+235,"Central University of Rajasthan, Ajmer  305817 (First Cycle)",Rajasthan,3.01,A
+236,"DR K N MODI UNIVERSITY,INS-1, RIICO Industrial Area 
+ Phase-II, Newai,
+ Tonk,Newai,Rajasthan,304021 (First Cycle)",Rajasthan,2.13,B
+237,"IIHMR UNIVERSITY, IIHMR University, 1 Prabhu Dayal Marg, Near Sanganer Airport, Jaipur,Jaipur,Rajasthan,302029 (First Cycle)",Rajasthan,2.19,B
+238,"Institute of Advanced Studies in Education, Sardarshahar (First Cycle)",Rajasthan,2.5,B
+239,"JAIN VISHVA BHARATI INSTITUTE,JAIN VISHVA BHARATI INSTITUTE, LADNUN, DIST. NAGAUR,LADNUN,Rajasthan,341306 (Fourth Cycle)",Rajasthan,3.04,A
+240,"JAIPUR NATIONAL UNIVERSITY,Jaipur-Agra Bypass , Near New RTO Office , Jagatpura,Jaipur,Rajasthan,302017 (Second Cycle)",Rajasthan,2.76,B++
+241,"Janardhan Rai Nagar Rajasthan Vidyapeeth (Deemed-to-be-University u/s 3 of the UGC Act 1956), Pratap Nagar, Airport Road, Udaipur  313 001 (Second Cycle, assessed as per old methodology)",Rajasthan,3.04,A
+242,"Jayoti Vidyapeeth Women's University,Vedaant Gyan Valley, Village- Jharna, Mahla Jobner Link Road, Jaipur Ajmer Express Way, Nh-8,Jaipur - 303122 (First Cycle)",Rajasthan,2.63,B+
+243,"JECRC UNIVERSITY,Plot No. IS-2036 to 2039, 
+ Ramchandrapura, 
+ Industrial Area, Vidhani, Sitapura Extn, Jaipur,Jaipur,Rajasthan,303905 (Second Cycle)",Rajasthan,2.65,B+
+244,"JK LAKSHMIPAT UNIVERSITY,Near Mahindra SEZ, Mahapura, Ajmer Road,Jaipur,Rajasthan,302026 (First Cycle)",Rajasthan,3.05,A
+245,"MAHARAJA GANGA SINGH UNIVERSITY, NH15, Jaiselmer Road,Bikaner,Rajasthan,334004 (First Cycle)",Rajasthan,1.67,C
+246,"Maharshi Dayanand Saraswati University, Ajmer  305009 (Second Cycle)",Rajasthan,2.8,B++
+247,"MANIPAL UNIVERSITY JAIPUR,Dehmi Kalan
+ Off Jaipur-Ajmer Express way
+ Jaipur,Jaipur,Rajasthan,303007 (First Cycle)",Rajasthan,3.28,A+
+248,"Mewar University,NH-79, Gangrar,Chittorgarh - 312901 (First Cycle)",Rajasthan,2.04,B
+249,"NIMS UNIVERSITY RAJASTHAN, JAIPUR,NH-11 C, Jaipur- Delhi Highway,Jaipur , 303121 (First Cycle)",Rajasthan,2.54,B+
+250,"SANGAM UNIVERSITY,NH-79, Bhilwara, Chittor By Pass, Chittor Road,BHILWARA,Rajasthan,311001 (First Cycle)",Rajasthan,2.29,B
+251,"SIR PADAMPAT SINGHANIA UNIVERSITY,NH-76,Tehsil - Vallabhnagar, District - Udaipur,Bhatewar,Rajasthan,313601 (First Cycle)",Rajasthan,2.09,B
+252,"Suresh Gyan Vihar University, Jagatpura, Jaipur  302017 (First Cycle)",Rajasthan,3.1,A
+253,"The LNM Institute of Information Technology (Deemed-to-be-University u/s 3 of the UGC Act, 1956), Jaipur  302031 (First Cycle)",Rajasthan,3.15,A
+254,"UNIVERSITY OF ENGINEERING AND MANAGEMENT, JAIPUR,Gurukul, 6 km from chomu on Sikar Road (NH-11), Udaipuria Mod,Jaipur,Rajasthan,303807 (First Cycle)",Rajasthan,2.26,B
+255,"University of Kota, Kota  324005 (First Cycle)",Rajasthan,2.11,B
+256,"University of Rajasthan, Jaipur  302004 (Second Cycle)",Rajasthan,3.21,A
+257,"JAGAN NATH UNIVERSITY,NH-12, Chaksu Bypass, Tonk Road, Jaipur - 303901,Rajasthan (Second Cycle)",Rajasthan,3.01,A
+258,"Sikkim Manipal University ,Fifth Mile, Tadong, Gangtok, East Sikkim,Gangtok - 737102 (First Cycle)",Sikkim,2.34,B
+259,"Sikkim University, 6th Mile, Samdur PO, Tadong, Gangtok - 737102 (First Cycle)",Sikkim,2.6,B
+260,"ACADEMY OF MARITIME EDUCATION AND TRAINING (AMET) DEEMED TO BE UNIVERSITY,AMET Deemed to be University,
+ 135 East Coast Road, Kanathur,Chennai,Tamil Nadu,603112 (Second Cycle)",Tamil Nadu,3.13,A
+261,"Alagappa University, Alagappapuram, Sivaganga, Karaikudi  630003 (Third Cycle)
+7 years Validity",Tamil Nadu,3.64,A+
+262,"AMRITA VISHWA VIDYAPEETHAM, Amrita Nagar PO Ettimadai,Ettimadai PO Coimbatore,Tamil Nadu,641112 (Third Cycle)",Tamil Nadu,3.71,A++
+263,"AVINASHILINGAM INSTITUTE FOR HOME SCIENCE AND HIGHER EDUCATION FOR WOMEN,Avinashlingam Institute for Home Science and Higher Education for Women, 
+ Bharathi Park Road, 
+ Coimbatore,Coimbatore,Tamil Nadu,641043 (Re-assessment,Fourth Cycle)",Tamil Nadu,3.65,A++
+264,"B. S. ABDUR RAHMAN CRESCENT INSTITUTE OF SCIENCE AND TECHNOLOGY, Seethakathi Estate
+ GST Road
+ Vandalur
+ Chennai - 600 048
+ Chengalpattu District
+ Tamil Nadu,CHENNAI,Tamil Nadu,600048 (Second Cycle)",Tamil Nadu,3.33,A+
+265,"Bharath Institute of Higher Education and Research (University), Chennai (Second Cycle)",Tamil Nadu,3.2,A
+266,"Bharathiar University,Coimbatore  641046 (Third Cycle)",Tamil Nadu,3.11,A
+267,"BHARATHIDASAN UNIVERSITY,Palkalaiperur,TIRUCHIRAPALLI , 620024 (Third Cycle)",Tamil Nadu,3.32,A+
+268,"Central University of Tamil Nadu, Thiruvarur  610101 (First Cycle)",Tamil Nadu,2.78,B++
+269,"Chennai Mathematical Institute (Deemed-to-be-University u/s 3 of the UGC Act), Chennai  603103 (First Cycle)",Tamil Nadu,3.15,A
+270,"DAKSHINA BHARAT HINDI PRACHAR SABHA,Thanikachalam Road, T Nagar, Chennai,MADRAS , 600017 (First Cycle)",Tamil Nadu,2.57,B+
+271,"Dr. M. G. R. Educational and Research Institute Deemed-to-be-University u/s 3 of the UGC Act 1956), Chennai - 600095 (Second Cycle, assessed as per old methodology)",Tamil Nadu,3.31,A
+272,"Gandhigram Rural Institute (Deemed-to-be-University u/s 3 of the UGC Act, 1956), Dindigul  624302 (Third Cycle)",Tamil Nadu,3.2,A
+273,"Hindustan Institute of Technology and Science (HITS) (Deemed-to-be-University u/s 3 of the UGC Act, 1956), Chennai  603103 (First Cycle, Re-assessment)",Tamil Nadu,3.3,A
+274,"Kalasalingam Academy of Research and Education, Srivilliputhur (Second Cycle)",Tamil Nadu,3.11,A
+275,"KARPAGAM ACADEMY OF HIGHER EDUCATION,Pollachi Main Road, Eachanari Post,Coimbatore,Tamil Nadu,641021 (Second Cycle)",Tamil Nadu,3.33,A+
+276,"Karunya Institute of Technology and Sciences (Deemed-to-be-University u/s 3 of the UGC Act), Coimbatore  641114 (First Cycle, Re-assessment)",Tamil Nadu,2.91,B
+277,"MADURAI KAMARAJ UNIVERSITY,Madurai Kamaraj University, Palkalai Nagar,Madurai,Tamil Nadu,625021 (Fourth Cycle)",Tamil Nadu,3.54,A++
+278,"Meenakshi Academy of Higher Education and Research, Chennai (First Cycle)",Tamil Nadu,2.41,B
+279,"MOTHER TERESA WOMEN'S UNIVERSITY,Attuvampatti,Kodaikanal,Kodaikanal,Tamil Nadu,624101 (Third Cycle)",Tamil Nadu,3.1,A
+280,"Noorul Islam Centre For Higher Education,Thuckalay (First Cycle)",Tamil Nadu,3.06,A
+281,"Periyar Maniammai Institute of Science and Technology, Thanjavur (Second Cycle)",Tamil Nadu,2.66,B
+282,"Periyar University, 
+ Salem-636011 (Third Cycle)",Tamil Nadu,3.61,A++
+283,"Ponnaiyah Ramajayam Institute of Science & Technology, Thanjavur (First Cycle)",Tamil Nadu,2.95,B
+284,"Sathyabama Institute of Science and Technology (Deemed-to-be-University u/s 3 of the UGC Act 1956), Chennai  600119 (Second Cycle)",Tamil Nadu,3.09,A
+285,"SHANMUGHA ARTS, SCIENCE, TECHNOLOGY AND RESEARCH ACADEMY (SASTRA) DEEMED-TO-BE-UNIVERSITY,SASTRA Deemed University
+ Tirumalaisamudram,Thanjavur,Tamil Nadu,613401 (Fourth Cycle)",Tamil Nadu,3.76,A++
+286,"Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya (Deemed-to-be-University u/s 3 of the UGC Act 1956), Enathur, Kanchipuram  631561 (First Cycle, Re-assessment)",Tamil Nadu,3.08,A
+287,"SRI RAMACHANDRA INSTITUTE OF HIGHER EDUCATION AND RESEARCH (Deemed to be University u/s 3 of the UGC Act 1956), Sri Ramachandra Institute of Higher Education and Research (Deemed to be University), 
+ No. 1, Ramachandra Nagar,
+ Porur,Chennai,Tamil Nadu,600116 (Third Cycle) (Seven Years)",Tamil Nadu,3.53,A++
+288,"St. Peter's Institute of Higher Education and Research, Chennai (First Cycle)",Tamil Nadu,2.52,B
+289,"TAMIL NADU PHYSICAL EDUCATION AND SPORTS UNIVERSITY, VANDALUR- KELAMBAKKAM ROAD
+ MELAKOTTAIYUR POST CHENNAI 600127
+ ( Second Cycle)",Tamil Nadu,2.28,B
+290,"Tamil University,Vagaiyur, Trichy Road,Thanjavur - 613010 (Second Cycle)",Tamil Nadu,2.52,B+
+291,"THIRUVALLUVAR UNIVERSITY, THIRUVALLUVAR UNIVERSITY
+ SERKKADU,Vellore,Tamil Nadu,632115 (First Cycle)",Tamil Nadu,2.71,B+
+292,"University of Madras, Chepauk Campus, Chennai, 600005 Tamil Nadu (Third Cycle)",Tamil Nadu,3.32,A
+293,"Vel Tech Rangarajan Dr Sagunthala R&D Institute of Science and Technology, Chennai (First Cycle)",Tamil Nadu,3.17,A
+294,"VELLORE INSTITUTE OF TECHNOLOGY,Katpadi - Thiruvalam Road,Vellore,Tamil Nadu,632014 (Fourth Cycle)",Tamil Nadu,3.66,A++
+295,"VELS INSTITUTE OF SCIENCE, TECHNOLOGY AND ADVANCED STUDIES(VISTAS)
+(Re-assessment)
+,Velan Nagar, P.V.Vaithiyalingam Road, Pallavaram, Chennai,CHENNAI , 600117 (First Cycle)",Tamil Nadu,3.01,A
+296,"Vinayaka Mission�s Research Foundation,Salem (First Cycle)",Tamil Nadu,2.73,B
+297,"CHETTINAD ACADEMY OF RESEARCH AND EDUCATION,Chettinad Health City campus, Rajiv Gandhi Salai,Chengalpattu District,KELAMBAKKAM - 603103,Tamil Nadu (Third Cycle)",Tamil Nadu,3.71,A++
+298,"Annamalai University
+ Annamalainagar, CHIDAMBARAM - 608002,Tamil Nadu (Fourth Cycle)",Tamil Nadu,3.38,A+
+299,"SAVEETHA INSTITUTE OF MEDICAL AND TECHNICAL SCIENCES,No.162,PH Road ,Velappanchavadi ,Chennai -600077 ,Tamilnadu (Second Cycle)",Tamil Nadu,3.66,A++
+300,"Manonmaniam Sundaranar University,Abishekapatti,Tirunelveli - 627012 (Third Cycle)",Tamil Nadu,3.13,A
+301,"SRM Institute of Science and Technology,SRM Nagar, Kancheepuram Dist.,Kattankulathur - 603203 (Third Cycle)",Tamil Nadu,3.55,A++
+302,"Thiruvalluvar University,Serkkadu,Vellore - 632115 (First Cycle)",Tamil Nadu,2.25,B
+303,"International Institute of Information Technology (Deemed-to-be-University u/s 3 of the UGC Act 1956), Gachibowli, Hyderabad  500032 (Second Cycle)",Telangana,3.05,A
+304,"JAWAHARLAL NEHRU ARCHITECTURE AND FINE ARTS UNIVERSITY,JNAFA UNIVERSITY, MAHAVEER MARG, MASAB TANK,HYDERABAD,Telangana,500028 (First Cycle)",Telangana,1.62,C
+305,Jawaharlal Nehru Technological University Hyderabad  500085 (Second Cycle),Telangana,3.01,A
+306,"Kakatiya University, Vidyaranyapuri, Hanamkonda, Warangal  506009(Third Cycle)",Telangana,3.36,A
+307,"Mahatma Gandhi University, Nalgonda  508254 (First Cycle)",Telangana,2.32,B
+308,"Maulana Azad National Urdu University, Hyderabad  500032 (Second Cycle)",Telangana,3.09,A
+309,"NALSAR University of Law, Hyderabad  500101 (First Cycle)",Telangana,3.6,A
+310,"Osmania University, Hyderabad  500007 (Third Cycle)",Telangana,3.52,A+
+311,"Palamuru University,Bandameedipalli,Mahabubnagar - 509001 (First Cycle)",Telangana,2.31,B
+312,"POTTI SREERAMULU TELUGU UNIVERSITY,PUBLIC GARDENS NAMPALLY HYDERABAD, HYDERABAD , 500004 (Second Cycle)",Telangana,2.25,B
+313,"RAJIV GANDHI UNIVERSITY OF KNOWLEDGE TECHNOLOGIES,Rajiv Gandhi University of Knowledge Technologies
+ Basar, Basar (Village and Mandal),
+ Nirmal District,,BASAR,Telangana,504107 (First Cycle)",Telangana,1.9,C
+314,"Telangana University, Dichpally, Nizamabad  503322 (First Cycle)",Telangana,2.61,B
+315,"The English and Foreign Languages University, Hyderabad  500007 (Second Cycle)",Telangana,3.26,A
+316,"The ICFAI Foundation for Higher Education (Deemed to be University u/s 3 of the UGC Act 1956), Donthanapalli, Hyderabad, 501203 (Second Cycle)",Telangana,3.43,A
+317,"University of Hyderabad, Hyderabad, 500046 (Third Cycle)",Telangana,3.72,A
+318,"Tripura University, Suryamaninagar, Agartala  799022 (Second Cycle)",Tripura,2.63,B
+319,"ICFAI University Tripura,Simna Road, PO Kamalghat, Mohanpur, West Tripura,Agartala - 799210 (First Cycle)",Tripura,2.62,B+
+320,"Babasaheb Bhimrao Ambedkar University, Lucknow, 226025 (First Cycle)",Uttar Pradesh,3.01,A
+321,"Banaras Hindu University, Varanasi, 221005 (Second Cycle)",Uttar Pradesh,3.41,A
+322,"Bundelkhand University, Jhansi  284128 (Third Cycle)",Uttar Pradesh,2.8,B++
+323,"Ch. Charan Singh University, Meerut  250005 (Second Cycle)",Uttar Pradesh,2.84,B
+324,"Chhatrapati Shahu Ji Maharaj University, Kanpur, 208024 (Second Cycle)",Uttar Pradesh,2.3,B
+325,"DAYALBAGH EDUCATIONAL INSTITUTE, Dayalbagh Educational Institute (Deemed to be University), Dayalbagh,AGRA,Uttar pradesh,282005 (Third Cycle)",Uttar Pradesh,3.4,A+
+326,"Dr. Bhim Rao Ambedkar University, Agra  282004 (Second Cycle)",Uttar Pradesh,2.79,B++
+327,"DR. RAM MANOHAR LOHIA AWADH UNIVERSITY, FAIZABAD,Dr. Rammanohar Lohia Avadh University, Hawai Patti, Allahabad Road, (Faizabad)-Ayodhya,AYODHYA,Uttar pradesh,224001 (First Cycle)",Uttar Pradesh,2.22,B
+328,"GLA University, Chaumuhan, Mathura  281406 (First Cycle)",Uttar Pradesh,3.02,A
+329,"IFTM University, Moradabad  244102 (First Cycle)",Uttar Pradesh,2.37,B
+330,"Integral University, Lucknow, 226026 (First Cycle)",Uttar Pradesh,2.64,B
+331,"INVERTIS UNIVERSITY, BAREILLY, UTTAR PRADESH,Invertis University, Invertis Village, Near Transport Nagar Bareilly - Lucknow National Highway - 24, Bareilly,Bareilly,Uttar pradesh,243123 (First Cycle)",Uttar Pradesh,2.09,B
+332,"Jaypee Institute of Information Technology, Noida (First Cycle)",Uttar Pradesh,2.9,B
+333,"King George Medical University, Lucknow  226003 (First Cycle)",Uttar Pradesh,3.14,A
+334,"Mahatma Jyotiba Phule Rohilkhand University, Bareilly  243006 (Second Cycle)",Uttar Pradesh,2.55,B
+335,"Nehru Gram Bharti University, Allahabad (First Cycle)",Uttar Pradesh,1.51,C
+336,"Santosh University, Ghaziabad (First Cycle)",Uttar Pradesh,2.56,B
+337,"Sharda University, Greater Noida  201306 (First Cycle) (Assessed prior to July 2016)",Uttar Pradesh,2.4,B
+338,"SHIV NADAR UNIVERSITY,NH-91, TEHSIL-DADRI, GAUTAM BUDDHA NAGAR, UTTAR PRADESH,201314 (First Cycle)",Uttar Pradesh,3.06,A
+339,"Shobhit Institute of Engineering and Technology, Meerut (First Cycle)",Uttar Pradesh,2.12,B
+340,"Swami Vivekanand Subharti University, Meerut  250005 (First Cycle)",Uttar Pradesh,3.08,A
+341,"Teerthanker Mahaveer University, Moradabad  244001 (First Cycle)",Uttar Pradesh,2.82,B++
+342,"UNIVERSITY OF ALLAHABAD,Senate House Campus, University of Allahabad, Allahabad,Allahabad , 211002 (Second Cycle)",Uttar Pradesh,2.86,B++
+343,"Veer Bahadur Singh Purvanchal University, Jaunpur  222003(Second Cycle)",Uttar Pradesh,2.54,B+
+344,"Aligarh Muslim University,
+ University Road, Civil Lines,,ALIGARH,Uttar pradesh,202002 (Second Cycle)",Uttar Pradesh,3.35,A+
+345,"MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, Deoria Road,Gorakhpur - 273010,Uttar pradesh (First Cycle)",Uttar Pradesh,3.1,A
+346,"Amity University,Amity University Campus Sector - 125, Distt. Gautam Buddha Nagar,Noida - 201313 (Second Cycle)",Uttar Pradesh,3.27,A+
+347,"Gautam Buddha University,Yamuna Express Way,Greater Noida - 201310 (First Cycle)",Uttar Pradesh,2.54,B+
+348,"Mahatma Gandhi Kashi Vidyapith,Englishiya Line,Varanasi - 221002 (Third Cycle)",Uttar Pradesh,1.52,C
+349,"Dev Sanskriti Vishwavidyalaya, Haridwar  249411 (First Cycle)",Uttarakhand,2.8,B
+350,"Doon University, Dehradun  248001 (First Cycle)",Uttarakhand,2.77,B++
+351,"Graphic Era University, Dehradun (First Cycle)",Uttarakhand,3.23,A
+352,"GURUKULA KANGRI (DEEMED TO BE UNIVERSITY),P.O. Gurukul Kangri, Haridwar-249404,Haridwar,Uttarakhand,249404 (Third Cycle)",Uttarakhand,2.38,B
+353,"Hemwati Nandan Bahuguna Garhwal University, Srinagar  Garhwal, Pauri  246174 (Second Cycle)",Uttarakhand,3.11,A
+354,"Kumaun University, Nainital  263001 (Second Cycle)",Uttarakhand,3.04,A
+355,"THE ICFAI UNIVERSITY, Rajawala Road
+ Central Hope Town
+ Selaqui, 
+Dehradun,Uttarakhand,248197 (First Cycle)",Uttarakhand,1.78,C
+356,"UNIVERSITY OF PETROLEUM AND ENERGY STUDIES, Energy Acres, P.O. Bidholi, via Prem Nagar, Dehradun,Dehradun,Uttarakhand,248007 (Second Cycle)",Uttarakhand,3.02,A
+357,"Uttarakhand Sanskrit University,Haridwar-Delhi National Highway-58, Bahadrabad,Haridwar - 249402 (First Cycle)",Uttarakhand,1.83,C
+358,"Uttaranchal University, 
+ Arcadia Grant, 
+ PO-Chandanwari, 
+ Premnagar,Dehradun,Uttarakhand,248007 (First Cycle)",Uttarakhand,3.3,A+
+359,"Jadavpur University
+Kolkata 700032 West Bengal (Third Cycle) 7 Years Validity",West Bengal,3.68,A
+360,"KAZI NAZRUL UNIVERSITY,Nazrul Road, Kalla Bypass More, P.O.- Kalla C.H., P.S.- Asansol (North), Asansol, Dist. - Paschim Bardhaman, West Bengal, Pin - 713340,Asansol,West Bengal,713340 (First Cycle)",West Bengal,2.1,B
+361,"Maulana Abul Kalam Azad University of Technology, Salt Lake, Kolkata  700064 (First Cycle)",West Bengal,2.87,B++
+362,"NETAJI SUBHAS OPEN UNIVERSITY,DD-26, Sector-l, Salt lake City,Kolkata,West Bengal,700064 (First Cycle)",West Bengal,3.05,A
+363,"Presidency University, Kolkata  700073 (First Cycle)",West Bengal,3.04,A
+364,"Rabindra Bharati University, Kolkata  700050 (Second Cycle)",West Bengal,3.1,A
+365,"SIDHO KANHO BIRSHA UNIVERSITY,P.O. Sainik School Ranchi Road, 
+ Dist. Purulia,Purulia,West Bengal,723104 (First Cycle)",West Bengal,2.54,B+
+366,"University of Burdwan, Bardhaman  713104 (Third Cycle)",West Bengal,3.11,A
+367,"University of Calcutta, Kolkata  700073 (Third Cycle)",West Bengal,3.2,A
+368,"University of Gour Banga, Malda  732103 (First Cycle)",West Bengal,2.3,B
+369,"University of Kalyani, Kalyani, Nadia  741235 (Third Cycle)",West Bengal,3.12,A
+370,"Vidyasagar University
+ Dist. Paschim Medinipur,MIDNAPORE,West Bengal,721102 (Fourth Cycle)",West Bengal,2.79,B++
+371,"VISVA BHARATI UNIVERSITY,Santiniketan, Birbhum,Santiniketan,West Bengal,731235 (Second Cycle)",West Bengal,2.65,B+
+372,"WEST BENGAL STATE UNIVERSITY (BARASAT, NORTH TWENTY FOUR PARGANAS), Berunanpukuria
+ P.O. Malikapur
+ North 24-Parganas,Kolkata,West Bengal,700126 (First Cycle)",West Bengal,2.38,B
+373,"UNIVERSITY OF NORTH BENGAL,Raja Rammohunpur, PO - North Bengal University,Darjeeling - 734013,West Bengal (Fourth Cycle)",West Bengal,2.82,B++
+374,"RAMAKRISHNA MISSION VIVEKANANDA EDUCATIONAL AND RESEARCH INSTITUTE,PO Belur Math, Dist Howrah 711202 West Bengal,Howrah , 711202 (First Cycle)",West Bengal,3.66,A++

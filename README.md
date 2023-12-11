@@ -1,6 +1,6 @@
 # CaguiBot
 
-This Telegram Bot was constucted by me and Kuber Vajpayee(https://github.com/kuber2001) for the Smart India Hackathon 2022 Finale. 
+This Telegram Bot was constucted by me and my team for the Smart India Hackathon 2022 Finale. 
 It contains code for the deployed Flask server of the Telegram CaguiBot. The conversational AI integrated
 with our CaGui App to provide AI based counselling for high school students.
 
